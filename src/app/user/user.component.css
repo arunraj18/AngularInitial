@@ -1,0 +1,21 @@
+.users {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; 
+}
+
+.user-button {
+    padding: 10px 20px; 
+    border: none; 
+    background-color: #007bff; 
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 100px;
+    margin: 5px;
+
+}
+.user-button:hover{
+    background-color: #7db1e9;
+
+}
